@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ASToy12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ASToy12/ASToy12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# SpamWa
+```
+$ pkg install python
+$ pkg install git
+$ python3 -m pip install requests
+$ git clone https://github.com/sandiwijayani1/SpamWa-1
+$ cd SpamWa-1
+$ python3 spam.py
+```
